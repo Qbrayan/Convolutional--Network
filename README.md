@@ -1,4 +1,4 @@
 # Problem Statement
 
-•	Build and train a ConvNet in TensorFlow for a classification problem
+•	Build and train a ConvNet in TensorFlow to classify 6 hand signs
 
