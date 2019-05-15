@@ -1,4 +1,6 @@
 # Problem Statement
+
+•	Build and train a ConvNet in TensorFlow for a classification problem
 Your client is an Insurance company and they need your help in building a model to predict the propensity to pay 
 renewal premium and build an incentive plan for its agents to maximise the net revenue 
 (i.e. renewals - incentives given to collect the renewals) collected from the policies post their issuance.
